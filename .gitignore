@@ -1,0 +1,100 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/dist
+/build
+.env
+
+# Logs
+logs
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Vue.js
+**/node_modules/
+**/dist/
+*.local
+*.env
+.env.*.local
+.vscode/
+
+# Spring
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Spring Boot specific
+/target/
+/out/
+/bin/
+
+# Eclipse specific
+/.settings/
+/.classpath
+/.project
+/.factorypath
+
+# IntelliJ specific
+.idea/
+*.iml
+*.iws
+.idea/modules.xml
+.idea/*.iml
+.idea/workspace.xml
+.idea/libraries
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/misc.xml
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/assetWizardSettings.xml
+.idea/sqlDataSources.xml
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+
+# Others
+/.env
+/.env.local
+/.env.*.local
+/node_modules/
+test/
+logs/
+temp/
+**/*.log
+temp
